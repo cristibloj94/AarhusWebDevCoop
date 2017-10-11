@@ -20,3 +20,7 @@ password: samsmith123
 Umbraco Backend:
 email: eaaiofog@students.eaaa.dk
 password: something28
+
+Contact form credentials
+email: testingumbraco@gmail.com
+password: umbracoumbraco

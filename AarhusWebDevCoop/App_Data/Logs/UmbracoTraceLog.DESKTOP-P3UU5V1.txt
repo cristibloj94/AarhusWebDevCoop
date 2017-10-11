@@ -112,3 +112,4 @@ System.Web.Mvc.HttpAntiForgeryException (0x80004005): The provided anti-forgery 
  2017-10-11 17:53:24,209 [P900/D2/T39] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 1ms)
  2017-10-11 17:53:24,209 [P900/D2/T39] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.ICacheRefresher
  2017-10-11 17:53:24,229 [P900/D2/T39] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.ICacheRefresher (took 17ms)
+ 2017-10-11 17:54:59,121 [P900/D2/T16] INFO  Umbraco.Core.Security.UmbracoMembershipProviderBase - Login attempt succeeded for username john from IP address ::1
