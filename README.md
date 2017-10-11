@@ -1,4 +1,4 @@
-# AarhusWebDevCoop
+# AarhusWebDevCoop Mandatory
 
 All the details about login and other credentials are situated in the project.txt file
 
