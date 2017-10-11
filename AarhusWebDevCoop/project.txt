@@ -17,6 +17,9 @@ Email: sam@mail.com
 Username: Sam
 password: samsmith123
 
+GitHub Link 1: https://github.com/cristibloj94/AarhusWebDevCoop.git
+GitHub Link 2: https://github.com/cristibloj94/AarhusWebDevCoop
+
 Umbraco Backend:
 email: eaaiofog@students.eaaa.dk
 password: something28
