@@ -21,6 +21,9 @@ Umbraco Backend:
 email: eaaiofog@students.eaaa.dk
 password: something28
 
+GitHub Link 1: https://github.com/cristibloj94/AarhusWebDevCoop.git
+GitHub Link 2: https://github.com/cristibloj94/AarhusWebDevCoop
+
 Contact form credentials
 email: testingumbraco@gmail.com
 password: umbracoumbraco
